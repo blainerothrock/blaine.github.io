@@ -1,3 +1,1 @@
-# Blaine Rothrock
-
 welcome.
