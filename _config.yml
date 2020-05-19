@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: blaine rothrock
 description: 👋 Hello!
+show_downloads: false
