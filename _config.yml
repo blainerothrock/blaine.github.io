@@ -30,12 +30,12 @@ texture:
     github:  blainerothrock
     linkedIn: in/brothrock # format: locale/username
 
-  showNav: true
   navigation:
     - title: "About"
       url: "/about"
     - title: "Resume"
       url: "/resume"
+  showNav: true
 
 # Build settings
 theme: texture
