@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/samarsault/texture
+  revision: d297566a7cd8d6a2723ba89bbeb41bec09bab65d
+  specs:
+    texture (0.4)
+      jekyll (>= 3.7)
+      jekyll-seo-tag (>= 2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -59,9 +67,6 @@ GEM
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    texture (0.4)
-      jekyll (>= 3.7)
-      jekyll-seo-tag (>= 2.1)
     unicode-display_width (1.7.0)
 
 PLATFORMS
@@ -70,7 +75,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.1.0)
   jekyll-feed (~> 0.12)
-  texture
+  texture!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

@@ -23,19 +23,20 @@ texture:
   tagline: Coder
   date_format: "%b %-d, %Y"
   style: black
-  showPicker: true
+  showPicker: false
 
   social_links:
     twitter: blain3r
     github:  blainerothrock
     linkedIn: in/brothrock # format: locale/username
 
+  showNav: true
+  
   navigation:
     - title: "About"
       url: "/about"
     - title: "Resume"
       url: "/resume"
-  showNav: true
 
 # Build settings
 theme: texture
